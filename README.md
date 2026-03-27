@@ -78,7 +78,9 @@ The goal is to make the data **reliable, readable, and usable**, especially in p
 **Source :** https://www.data.gouv.fr/datasets/referentiel-archeologique-de-paris  
 **Licence :** ODbL  
 **Lignes :** 2279  
-**Format :** CSV  
+**Format :** CSV
+** Note: The dataset included in this project is published under the ODbL license (Open Database License) by data.gouv.fr.
+The MIT License applies only to the code and documentation created for this project.  
 
 **Source:** https://www.data.gouv.fr/datasets/referentiel-archeologique-de-paris  
 **License:** ODbL  
