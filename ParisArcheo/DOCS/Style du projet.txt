@@ -1,0 +1,38 @@
+Style du projet
+
+| Usage | Couleur | Code |
+| --- | --- | --- |
+| **Couleur principale (ocre archéo)** | 🟧 | ``#C97E4B`` |
+| **Couleur secondaire (ocre clair / sable)** | 🟨 | ``#E8D3B5`` |
+| **Couleur d’accent (bleu nuit patrimonial)** | 🔵 | ``#2F3E46`` |
+| **Couleur neutre (gris pierre)** | ⚪ | ``#F4F1EC`` |
+| **Couleur de contraste (brun terre)** | 🟫 | ``#8A5A44`` |
+
+Page de garde portfolio :
+
+<div style="text-align:center; margin-top:80px; margin-bottom:40px;">
+
+<h1 style="color:#7A2E2E; font-size:64px; font-family:'Garamond', serif; margin-bottom:10px; letter-spacing:2px;">
+PARISARCHEO
+</h1>
+
+<h3 style="color:#2F3E46; font-family:'Garamond', serif; font-size:24px; margin-top:0;">
+Analyse, structuration et valorisation du Référentiel archéologique de Paris
+</h3>
+
+<hr style="border: 2px solid #C97E4B; width: 35%; margin:auto; margin-top:35px; margin-bottom:35px;">
+
+<p style="color:#2F3E46; font-family:'Georgia', serif; font-size:20px; margin-top:20px;">
+Camille — Ingénieure des données patrimoniales<br>
+Micro‑entreprise Meryre
+</p>
+
+<p style="color:#8A5A44; font-family:'Georgia', serif; font-size:16px; margin-top:10px;">
+Projet de data engineering patrimonial — 2026
+</p>
+
+<p style="font-style:italic; color:#2F3E46; font-family:'Garamond', serif; margin-top:40px; font-size:18px;">
+« Rendre les données patrimoniales lisibles, fiables et accessibles. »
+</p>
+
+</div>
